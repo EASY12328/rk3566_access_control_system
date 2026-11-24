@@ -1,0 +1,10 @@
+/build/
+/data/
+/models/
+__pycache__/
+*.f32
+*.rknn
+*.onnx
+users.json
+pin.json
+latest.bmp
